@@ -62,7 +62,7 @@ body{
   /* Showcase */
   #showcase{
     min-height:400px;
-    background:url('../images/showcase.jpg');
+    background:url('../Images/showcase.jpg');
     background-repeat: no-repeat;
     background-position: 0 -500px;
     text-align:center;
