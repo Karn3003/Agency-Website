@@ -13,7 +13,7 @@
                     <h1><span class="highlight">Agency </span>Web Design</h1>
                 </div>
                 <nav>
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li><a href="about.html">About</a></li>
                     <li><a href="services.html">Services</a></li>
                 </nav>
